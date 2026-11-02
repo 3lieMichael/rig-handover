@@ -1,0 +1,21 @@
+src/digest/read.ts
+  s_236f1baf290f06::t_9fe363385c3b38 1-71
+test/digest-read.test.ts
+  s_236f1baf290f06::t_6dc68d0c3b840d 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "23cfe6eddc46472a4267e8a441144b7092084692",
+  "prompts": {},
+  "sessions": {
+    "s_236f1baf290f06": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "2f4c85ea-ea76-4777-9bc3-a1d4d1dbc1bf",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    }
+  }
+}

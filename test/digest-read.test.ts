@@ -27,7 +27,7 @@ describe('readNight', () => {
       lastAt: '2026-10-29T01:37:00+01:00',
     });
     const backup = d!.rows.find((r) => r.job === 'notes/backup')!;
-    expect(backup).toMatchObject({ lastStatus: 'fail', lastError: 'quota exceeded', retries: 0 });
+    expect(backup).toMatchObject({ lastStatus: 'fail', lastError: 'quota exceeded', retries: 0, fails: 1 });
   });
 
   it('keeps a row whose owner is null', () => {

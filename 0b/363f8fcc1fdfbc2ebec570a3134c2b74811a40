@@ -1,0 +1,19 @@
+pnpm-lock.yaml
+  s_236f1baf290f06::t_7311d1bc33948c 1-964
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b363f8fcc1fdfbc2ebec570a3134c2b74811a40",
+  "prompts": {},
+  "sessions": {
+    "s_236f1baf290f06": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "2f4c85ea-ea76-4777-9bc3-a1d4d1dbc1bf",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+test/digest-routes.test.tsx
+  s_ee1f896fa54578::t_4a1649ecda01aa 1-143
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1a422f27dc21ec57c8b66d1795a85b89669ae4bf",
+  "prompts": {},
+  "sessions": {
+    "s_ee1f896fa54578": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "6c635ce4-83e2-4b9b-8a84-9a66d3596009",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    }
+  }
+}

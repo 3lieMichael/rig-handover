@@ -1,0 +1,19 @@
+docs/plans/done/2026-10-29-morning-digest.md
+  s_236f1baf290f06::t_9fce5e944e4d11 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c2d062c56c2811cdc419d3f5c441ceef38235c5d",
+  "prompts": {},
+  "sessions": {
+    "s_236f1baf290f06": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "2f4c85ea-ea76-4777-9bc3-a1d4d1dbc1bf",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    }
+  }
+}

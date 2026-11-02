@@ -83,7 +83,7 @@ describe('GET /digest/:night', () => {
     const res = await get(`/digest/${BAD}`);
     expect(res.status).toBe(200);
     const html = await res.text();
-    expect(html).toContain("didn't parse");
+    expect(html).toMatch(/didn(?:'|&#39;)t parse/);
     expect(jobsInTable(html)).toEqual(['good/one', 'good/two']);
   });
 

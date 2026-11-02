@@ -1,0 +1,30 @@
+src/views/digest.tsx
+  s_3608cfa2f25966::t_5287c7125cd452 1-61
+src/app.tsx
+  s_3608cfa2f25966::t_d13d91c1282162 7-8,23-39
+  s_2c228dbe636c4a::t_9c3f524e6d82e2 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aeb5f78b4161c4ec11ef0220c7fd85371134f50d",
+  "prompts": {},
+  "sessions": {
+    "s_2c228dbe636c4a": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "8a96ba4c-51af-4454-9edc-1962043dba15",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    },
+    "s_3608cfa2f25966": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "b4e7a00d-1bb4-4ed0-bc99-18ed74f68fb0",
+        "model": "unknown"
+      },
+      "human_author": "Elie Ngandu <elie.ngandu@fleetworthy.com>"
+    }
+  }
+}
